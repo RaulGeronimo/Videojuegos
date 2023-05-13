@@ -1,7 +1,7 @@
 # Videojuegos
 Código del proyecto "Videojuegos" utilizando JavaScript, CSS y PHP, el gestor de bases de datos utilizado fue MySQL.
 
-https://user-images.githubusercontent.com/94584093/227815163-8977f0c2-7370-40bb-accf-ec4e7e47e90c.mp4
+https://github.com/RaulGeronimo/Videojuegos/assets/94584093/68fdbb85-9c2a-4a80-bebd-e335a31da9c9
 
 Esta es una aplicación web básica para administrar notas a traves de un login utilizando tecnologías como PHP, CSS, JavaScript y MySQL.
 
